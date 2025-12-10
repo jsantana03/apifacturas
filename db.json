@@ -1,1 +1,55 @@
+{
+  "facturas": [
+    {
+      "id": 1,
+      "nombre": "Factura de Internet",
+      "valor": 75000
+    },
+    {
+      "id": 2,
+      "nombre": "Factura de Luz",
+      "valor": 120000
+    },
+    {
+      "id": 3,
+      "nombre": "Factura de Agua",
+      "valor": 45000
+    },
+    {
+      "id": 4,
+      "nombre": "Factura de Gas",
+      "valor": 68000
+    },
+    {
+      "id": 5,
+      "nombre": "Factura de Arriendo",
+      "valor": 850000
+    },
+    {
+      "id": 6,
+      "nombre": "Factura de Teléfono",
+      "valor": 30000
+    },
+    {
+      "id": 7,
+      "nombre": "Factura de TV por Cable",
+      "valor": 52000
+    },
+    {
+      "id": 8,
+      "nombre": "Factura de Mantenimiento",
+      "valor": 110000
+    },
+    {
+      "id": 9,
+      "nombre": "Factura de Administración",
+      "valor": 150000
+    },
+    {
+      "id": 10,
+      "nombre": "Factura de Parqueadero",
+      "valor": 60000
+    }
+  ]
+}
 
